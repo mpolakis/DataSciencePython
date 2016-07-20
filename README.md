@@ -6,6 +6,8 @@
 - [Comprehensive topic-wise list of Machine Learning and Deep Learning tutorials, codes, articles and other resources](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md).
 
 ##The Python Language
+- [**Awesome Python**](https://github.com/vinta/awesome-python)
+- [**Jargon from the functional programming world in simple terms!**](https://github.com/hemanth/functional-programming-jargon)
 - [**Dive Into Python**](http://www.diveintopython.net/index.html)
 - [Learn Python Wiki on Reddit](https://www.reddit.com/r/learnpython/wiki/index)
 - [Highest Voted Python Questions](http://stackoverflow.com/questions/tagged/python?sort=votes&pageSize=50)
@@ -16,26 +18,27 @@
 - [Parsing values from a JSON file in Python](http://stackoverflow.com/questions/2835559/parsing-values-from-a-json-file-in-python)
 - [**Python Quora FAQs**](https://www.quora.com/topic/Python-programming-language-1)
 - [time-complexity of various operations - list/dict - in current CPython](https://wiki.python.org/moin/TimeComplexity)
-- [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2)
 - Scripting in Python
     - [Python Scripting Tutorial](http://www.dreamsyssoft.com/python-scripting-tutorial/intro-tutorial.php)
     - [Scripting with Python](https://www.schrodinger.com//AcrobatFile.php?type=supportdocs&type2=&ident=404)
     - [**Can I use Python as a bash replacement?**](http://stackoverflow.com/questions/209470/can-i-use-python-as-a-bash-replacement)
 
 ##Machine Learning with Python
+- [Data Normalization in Python](http://blog.yhat.com/posts/data-normalization-in-python.html)
 - [**Python Machine Learning Book**](https://github.com/rasbt/python-machine-learning-book)
 - [Table of Contents and Code Notebooks](https://github.com/rasbt/python-machine-learning-book/blob/master/README.md#table-of-contents-and-code-notebooks)
 - [Machine Learning with scikit learn](http://www.dataschool.io/machine-learning-with-scikit-learn/)
 - [Machine Learning Algorithms Cheatsheet](http://www.analyticsvidhya.com/blog/2015/09/full-cheatsheet-machine-learning-algorithms/)
 - [**How to compute precision, recall, accuracy and f1-score for the multiclass case with scikit learn?**](http://stackoverflow.com/questions/31421413/how-to-compute-precision-recall-accuracy-and-f1-score-for-the-multiclass-case)
 - [One Hot Encoding for Machine learning in Python](http://stackoverflow.com/questions/17469835/one-hot-encoding-for-machine-learning)
+- [**Building a (semi) Autonomous Drone with Python**](http://blog.yhat.com/posts/autonomous-droning-with-python.html)
 
 ##Scikit Learn
 - [scikit learn on Wikipedia](https://en.wikipedia.org/wiki/Scikit-learn)
 - [**Introduction to machine learning with scikit-learn**](https://github.com/justmarkham/scikit-learn-videos), [**Videos!**](http://blog.kaggle.com/author/kevin-markham/)
 - [**A Gentle Introduction to Scikit-Learn: A Python Machine Learning Library**](http://machinelearningmastery.com/a-gentle-introduction-to-scikit-learn-a-python-machine-learning-library/)
 - [**PyData Seattle 2015 Scikit-learn Tutorial**](https://github.com/jakevdp/sklearn_pydata2015), [sklearn_scipy2013](https://github.com/jakevdp/sklearn_scipy2013)
-- [SKLEARN BENCHMARKS: A centralized repository to report scikit-learn model performance across a variety of parameter settings and data sets.](https://github.com/rhiever/sklearn-benchmarks)
+- [SKLEARN BENCHMARKS: A centralized repository to report scikit-learn model performance across a variety of parameter settings and data sets](https://github.com/rhiever/sklearn-benchmarks), [Report results of sklearn benchmarks at openml.org](http://www.openml.org/)
 - [How to get most informative features for scikit-learn classifiers?](http://stackoverflow.com/questions/11116697/how-to-get-most-informative-features-for-scikit-learn-classifiers)
 - [**Code example to predict prices of Airbnb vacation rentals, using scikit-learn on Spark**](https://github.com/mapr-demos/spark-sklearn-airbnb-predict)
 - [**Machine Learning with scikit learn tutorial**](http://amueller.github.io/sklearn_tutorial/)
@@ -53,6 +56,7 @@
 
 ##Logistic Regression in Python
 - [Logistic Regression with scikit learn](http://www.dataschool.io/logistic-regression-in-python-using-scikit-learn/)
+- [Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html)
 - [Implementing the softmax function in Python](http://stackoverflow.com/questions/34968722/softmax-function-python)
 - [**What is the inverse of regularization strength in Logistic Regression? How should it affect my code?**](http://stackoverflow.com/questions/22851316/what-is-the-inverse-of-regularization-strength-in-logistic-regression-how-shoul)
 - [The Yhat Blog: Logistic Regression in Python](http://blog.yhat.com/posts/logistic-regression-and-python.html)
@@ -89,6 +93,7 @@
 - [Using Python to Build and Use a Simple Decision Tree Classifier](https://github.com/gumption/Python_for_Data_Science/blob/master/4_Python_Simple_Decision_Tree.ipynb)
 - [Decision trees in python with scikit-learn and pandas](http://chrisstrelioff.ws/sandbox/2015/06/08/decision_trees_in_python_with_scikit_learn_and_pandas.html)
 - [Code for simple decision tree in Python](https://github.com/gumption/Python_for_Data_Science/blob/master/simple_decision_tree.py)
+- [Lesson notebook: Regression and Classification Trees](http://nbviewer.jupyter.org/github/justmarkham/DAT8/blob/master/notebooks/17_decision_trees.ipynb)
 
 ##Random Forest with Python
 - [Getting Started with Random Forests: Titanic Competition on Kaggle](https://www.kaggle.com/c/titanic/details/getting-started-with-random-forests), [Python sample code](https://www.kaggle.com/c/digit-recognizer/forums/t/2299/getting-started-python-sample-code-random-forest)
@@ -100,6 +105,7 @@
 - [Unbalanced classification using RandomForestClassifier in sklearn](http://stackoverflow.com/questions/20082674/unbalanced-classification-using-randomforestclassifier-in-sklearn)
 - [Random Forest with categorical features in sklearn](http://stackoverflow.com/questions/24715230/random-forest-with-categorical-features-in-sklearn)
 - [How to output RandomForest Classifier from python?](http://stackoverflow.com/questions/23000693/how-to-output-randomforest-classifier-from-python)
+- [Lesson notebook: Ensembling, Bagging, and Random Forests](http://nbviewer.jupyter.org/github/justmarkham/DAT8/blob/master/notebooks/18_ensembling.ipynb)
 
 ##Support Vector Machine in Python
 - [Fastest SVM implementation usable in Python](http://stackoverflow.com/questions/9299346/fastest-svm-implementation-usable-in-python)
@@ -113,6 +119,7 @@
 
 ##Data Science with Python
 - [awesome-python](https://github.com/vinta/awesome-python)
+- [**An Introduction to Scientific Python (and a Bit of the Maths Behind It) – NumPy**](http://www.kdnuggets.com/2016/06/intro-scientific-python-numpy.html)
 - [Python for Data Science: Basic Concepts](https://github.com/gumption/Python_for_Data_Science/blob/master/2_Data_Science_Basic_Concepts.ipynb)
 - [Pycon India 2015 Notes](http://www.analyticsvidhya.com/blog/2015/10/notes-impressions-experience-excitement-pycon-india-2015/)
 - [**5 important Python Data Science advancements of 2015**](https://medium.com/@elgehelge/the-5-most-important-python-data-science-advancements-of-2015-a136482da89b#.sp2c1la9z)
@@ -125,25 +132,38 @@
 - [What are some interesting things to do with Python?](https://www.quora.com/Python-programming-language-What-are-some-interesting-things-to-do-with-Python?redirected_qid=2324227)
 - [**Which is better for data analysis: R or Python?**](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python)
 - [**Web scraping in Python**](https://github.com/ujjwalkarn/Web-Scraping)
+- [The Guide to Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2)
+- [Free Interactive Course: Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Top voted Python data science questions](http://datascience.stackexchange.com/questions/tagged/python)
 
 ##Pandas Library in Python
 - [Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)
+- [An Introduction to Scientific Python – Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)
 - [10 minutes to Pandas](http://pandas.pydata.org/pandas-docs/stable/10min.html)
+- [Useful Pandas Snippets](http://www.swegler.com/becky/blog/2014/08/06/useful-pandas-snippets/)
 - [Timeseries analysis using Pandas](http://nbviewer.jupyter.org/github/twiecki/financial-analysis-python-tutorial/blob/master/1.%20Pandas%20Basics.ipynb)
 - [**“Large data” work flows using pandas**](http://stackoverflow.com/questions/14262433/large-data-work-flows-using-pandas)
+- [Easier data analysis with pandas (video series)](http://www.dataschool.io/easier-data-analysis-with-pandas/)
 - Quick Operations on a Pandas DataFrame
-    - [Renaming Columns in Pandas](http://stackoverflow.com/questions/11346283/renaming-columns-in-pandas)
-    - [Deleting Columns from pandas DataFrame](http://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe)
+    - [Renaming Columns in Pandas](http://stackoverflow.com/questions/11346283/renaming-columns-in-pandas) ([video](https://www.youtube.com/watch?v=0uBirYFhizE&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=5))
+    - [Deleting Columns from pandas DataFrame](http://stackoverflow.com/questions/13411544/delete-column-from-pandas-dataframe) ([video](https://www.youtube.com/watch?v=gnUKkS964WQ&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=6))
     - [Adding new Column to existing DataFrame](http://stackoverflow.com/questions/12555323/adding-new-column-to-existing-dataframe-in-python-pandas)
     - [Add one Row in a pandas.DataFrame](http://stackoverflow.com/questions/10715965/add-one-row-in-a-pandas-dataframe)
     - [Changing the order of DataFrame Columns](http://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns)
-    - [Changing data type of Columns](http://stackoverflow.com/questions/15891038/pandas-change-data-type-of-columns)
+    - [Changing data type of Columns](http://stackoverflow.com/questions/15891038/pandas-change-data-type-of-columns) ([video](https://www.youtube.com/watch?v=V0AWyzVMf54&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=13))
     - [Getting a list of the column headers from a DataFrame](http://stackoverflow.com/questions/19482970/get-list-from-pandas-dataframe-column-headers)
     - [Converting list of dictionaries to Dataframe](http://stackoverflow.com/questions/20638006/convert-list-of-dictionaries-to-dataframe)
     - [Getting row count of pandas DataFrame](http://stackoverflow.com/questions/15943769/how-to-get-row-count-of-pandas-dataframe)
     - [Most efficient way to loop through DataFrames](http://stackoverflow.com/questions/7837722/what-is-the-most-efficient-way-to-loop-through-dataframes-with-pandas)
     - [Deleting DataFrame row based on column value](http://stackoverflow.com/questions/18172851/deleting-dataframe-row-in-pandas-based-on-column-value)
     - [Dropping a list of rows from Pandas DataFrame](http://stackoverflow.com/questions/14661701/how-to-drop-a-list-of-rows-from-pandas-dataframe)
+    - [Sorting a DataFrame or a single column](https://www.youtube.com/watch?v=zY4doF6xSxY&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=7)
+    - [Filtering DataFrame rows by column value](https://www.youtube.com/watch?v=2AFGPdNn4FM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=8)
+    - [Filtering DataFrame rows using multiple criteria](https://www.youtube.com/watch?v=YPItfQ87qjM&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=9)
+    - [Dropping all non-numeric columns from a DataFrame](https://youtu.be/B-r9VuK80dk?t=4m31s)
+    - [Counting and removing missing values](https://www.youtube.com/watch?v=fCMrO_VzeL8&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=16)
+    - [Selecting multiple rows and columns from a DataFrame](https://www.youtube.com/watch?v=xvpNA7bC8cs&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=19)
+    - [Reducing the size of a DataFrame](https://www.youtube.com/watch?v=wDYDYGyN_cw&list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y&index=21)
 
 
 ##Text Mining in Python
@@ -173,6 +193,8 @@
 - [How to cPickle dump and load separate dictionaries to the same file?](http://stackoverflow.com/questions/11641493/how-to-cpickle-dump-and-load-separate-dictionaries-to-the-same-file)
 - [**Understanding Pickling in Python**](http://stackoverflow.com/questions/7501947/understanding-pickling-in-python)
 
+##AutoML
+- [TPOT: A Python tool for automating data science](http://www.randalolson.com/2016/05/08/tpot-a-python-tool-for-automating-data-science/), [GitHub repo](https://github.com/rhiever/tpot)
 
 ##Regex Related
 - [RegExr](http://regexr.com/)
